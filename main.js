@@ -4,7 +4,7 @@ let resetButton = document.getElementById("reset-button");
 let userInput = document.getElementById("user-input");
 let userCount = document.getElementById("user-count");
 let resultText = document.getElementById("result-text");
-let count = 5;
+let count = 10;
 let gameover = false;
 let history = [];
 
