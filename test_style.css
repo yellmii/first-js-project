@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+.container {
+    height: 100vh;
+    background-color: black;
+       
+}
+
+.title {
+    text-align : center;
+    padding : 1em;
+    color: #1ed760;
+    font-size: 70px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+
+.main {
+    text-align : center;
+    
+    
+}
+
+.result-area {
+    padding: 1em;
+    font-size: 50px;
+    color: #1ed760;
+}
+
+.count-area {
+    padding: 1em;
+    color: red;
+}
+
+.button-style {
+    color: #1ed760;
+    background-color: black;
+    border-color: #1ed760;
+    font-weight: 200px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    border-radius: 5px;    
+}
